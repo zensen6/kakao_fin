@@ -20,7 +20,7 @@
     padding: 0px 20px;
   }
   
-  .chat-body{
+  .chat-screen{
     background-image: url("../images/chatBg.png");
     min-height: 150vh;
   }
